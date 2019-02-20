@@ -1,4 +1,7 @@
 # YugiohTCGameCalculator
+
+TO USE: Make sure everything is in the same folder to run. Might have to change location of logs folder for logs to be created.
+
 This is a life point calculator for the trading card game from Japan.
 
 If you know how to play Yu-gi-oh this life point calculator is for you. 
