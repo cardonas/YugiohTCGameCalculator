@@ -1,0 +1,12 @@
+New Two Player Game Started
+Steven has 8000 lifepoints
+Thomas has 8000 lifepoints
+There was 2500 damage to Steven
+There was 1500 restored to Steven
+There was 7000 damage to Steven
+Thomas Wins the Duel!!!New Game Started
+There was 8000 damage to Thomas
+Steven Wins the Duel!!!New Game Started
+There was 8000 damage to Steven
+There was 8000 damage to Thomas
+This Duel is a Tie!!!

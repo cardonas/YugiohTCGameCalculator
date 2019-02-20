@@ -1,0 +1,55 @@
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+Coin Flip result: Tails
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+New Two Player Game Started
+Daniel has 8000 lifepoints
+Steven has 8000 lifepoints
+New Two Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+Coin Flip result: Heads
+Coin Flip result: Tails
+Coin Flip result: Heads
+Coin Flip result: Tails
+Coin Flip result: Tails
+Coin Flip result: Tails
+Coin Flip result: Tails
+Coin Flip result: Heads
+Coin Flip result: Heads
+New Three Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+Alex has 8000 lifepoints
+Coin Flip result: Tails
+Coin Flip result: Heads
+New Four Player Game Started
+Steven has 8000 lifepoints
+Daniel has 8000 lifepoints
+Alex has 8000 lifepoints
+Apollo has 8000 lifepoints
+Coin Flip result: Heads
+Coin Flip result: Tails
+Coin Flip result: Heads
+Coin Flip result: Heads
